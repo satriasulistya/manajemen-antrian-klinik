@@ -2,7 +2,9 @@
 Repository ini untuk pengumpulan tugas Rekayasa Piranti Lunak.
 
 Kelompok AREx :
+
 Muhammad Hidayat 
+
 Satria Sulistya Putra
 
 Link Google Docs : https://docs.google.com/document/d/1YwPC8MLNOB75JCDYo3GSRTM0xaJvxyj-aXwKjmB63yU/edit?usp=sharing
